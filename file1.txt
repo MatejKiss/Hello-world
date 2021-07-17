@@ -4,3 +4,4 @@ Riadok 2
 Riadok 3
 Riadok pridany v branch title-change
 Pridany druhý riadok v branch title-change
+Zmena vo vetve
