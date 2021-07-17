@@ -1,1 +1,2 @@
 Subor 2
+File2 zmena v master
