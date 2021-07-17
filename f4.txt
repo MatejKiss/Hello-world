@@ -1,1 +1,2 @@
 Subor 4
+f4 zmena v master
