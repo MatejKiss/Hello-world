@@ -5,3 +5,4 @@ Riadok 3
 Riadok pridany v branch title-change
 Pridany druhý riadok v branch title-change
 Zmena vo vetve
+Zmena pre stashing cvičenie
