@@ -1,3 +1,0 @@
-Subor 2
-File2 zmena v master
-Hot fix v súbore file2.txt
